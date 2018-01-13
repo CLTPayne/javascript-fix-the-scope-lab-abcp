@@ -1,3 +1,4 @@
+function fixTheScope() {
 function myAnimal() {
   var animal = 'cat';
   return animal;
