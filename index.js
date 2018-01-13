@@ -1,6 +1,6 @@
 function fixTheScope() {
-function myAnimal() {
-  var animal = 'cat';
+function myAnimal()() {
+  var animal = 'dog';
   return animal;
 }
 
